@@ -7,7 +7,3 @@
  readme
 
 git push
-
-git stash
-
-new line
